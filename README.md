@@ -12,6 +12,8 @@ PICマイコンのリアルタイム性能を活かし電圧、電流だけで�
 
 ## 製品詳細は[こちら](https://bit-trade-one.co.jp/product/module/adcq1706ap/)!
 
+## [PCアプリ](https://github.com/bit-trade-one/ADCQ1706AK_Digital_Multi_Meter-kit/tree/master/App)
+
 ## 製品仕様
 【対応OS】Raspbian  
 【対応機種】Raspberry Pi Model B+／Raspberry Pi 2 Model B／Raspberry Pi 3 Model B／   
