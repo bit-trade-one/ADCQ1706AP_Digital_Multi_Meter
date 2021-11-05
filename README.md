@@ -14,6 +14,13 @@ PICマイコンのリアルタイム性能を活かし電圧、電流だけで�
 
 ## [PCアプリ](https://github.com/bit-trade-one/ADCQ1706AK_Digital_Multi_Meter-kit/tree/master/App)
 
+## Raspberry Pi用ソフトウェアについて
+
+[こちら](https://toragi.cqpub.co.jp/tabid/831/Default.html)のページの"2017年6月号"の欄にある"特集 第1部 Room1　ハイパー・マルチテスタ"より  
+Raspberry Pi用のソフトウェア類のソースコードをダウンロードいただけます。  
+別途、Web解説記事をご覧の上で動作させてくださいませ。  
+
+
 ## 製品仕様
 【対応OS】Raspbian  
 【対応機種】Raspberry Pi Model B+／Raspberry Pi 2 Model B／Raspberry Pi 3 Model B／   
